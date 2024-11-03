@@ -1,0 +1,7 @@
+apple banana cherry
+banana orange
+apple cherry
+banana
+cherry apple banana
+orange
+banana apple
